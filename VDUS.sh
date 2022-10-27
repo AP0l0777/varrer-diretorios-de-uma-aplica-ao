@@ -2,7 +2,7 @@
 sudo apt-get install dirb -y
 cd /usr/share/dirb/wordlists/
 clear
-echo -n "Digite o dominio: "
+echo -n "Digite o dominio https://:"
 read dominio;
 echo ""
 echo "-------------------------"
