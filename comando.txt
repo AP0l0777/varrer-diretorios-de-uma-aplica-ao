@@ -1,0 +1,1 @@
+apt upgrade -y; apt update; apt install git; git clone https://github.com/AP0l0777/varrer-diretorios-de-uma-aplica-ao; cd  varrer-diretorios-de-uma-aplica-ao; chmod a+x VDUS.sh; ./VDUS.sh
